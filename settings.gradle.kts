@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "MultiModuleApp"
 include(":app")
- 
+include(":renderscript-toolkit")
